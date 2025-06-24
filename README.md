@@ -32,12 +32,8 @@ npx expo start
 
 This will start the Expo dev server and open Expo Dev Tools in your browser.
 
-Then:
-
-Press i to open the iOS Simulator (macOS only)
-
-Press a to open the Android Emulator
-
-Press w to open the app in your web browser
-
-Or scan the QR code using the Expo Go app on your phone
+**Then:**
+- **Press `i`** to open the **iOS Simulator** (macOS only)  
+- **Press `a`** to open the **Android Emulator**  
+- **Press `w`** to open the **app in your web browser**  
+- Or **scan the QR code using the Expo Go app on your phone**
